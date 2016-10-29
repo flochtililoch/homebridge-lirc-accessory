@@ -1,0 +1,25 @@
+{
+  "name": "homebridge-lirc-accessory",
+  "version": "0.0.1",
+  "description": "Proxy accessory to control infrared devices using lirc-state-api module",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "bugs": {
+    "url": "https://github.com/flochtililoch/homebridge-lirc-accessory/issues"
+  },
+  "homepage": "https://github.com/flochtililoch/homebridge-lirc-accessory#README",
+  "engines": {
+    "node": ">=6.8.0",
+    "homebridge": ">=0.4.6"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^2.3.0"
+  }
+}
