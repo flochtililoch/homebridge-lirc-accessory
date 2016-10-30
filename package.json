@@ -1,6 +1,6 @@
 {
   "name": "homebridge-lirc-accessory",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Proxy accessory to control infrared devices using lirc-state-api module",
   "keywords": [
     "homebridge-plugin"
